@@ -1,0 +1,9 @@
+/*comentarios en CSS*/
+body{font-family: Arial, Helvetica, sans-serif;}
+header{text-align: center;}
+#imagen-perfil {width: 500px;}
+body{text-align: center;}
+body{background-color: blanchedalmond;}
+.cafe{background-color:rgb(209, 194, 147)}
+
+.no-bullets{list-style-type:none;}
